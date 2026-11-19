@@ -1,145 +1,187 @@
 {
- "updated": "2026-11-19T10:16:10.931Z",
+ "updated": "2026-11-19T18:59:42.570Z",
  "items": [
-  {
-   "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
-   "html_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-   "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
-   "language": "C++",
-   "stargazers_count": 4258
-  },
   {
    "full_name": "erkamyaman/rust-anything",
    "html_url": "https://github.com/erkamyaman/rust-anything",
    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
    "language": "Rust",
-   "stargazers_count": 4096
+   "stargazers_count": 4901
   },
   {
-   "full_name": "duwqijlk/muse-protocol",
-   "html_url": "https://github.com/duwqijlk/muse-protocol",
-   "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+   "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+   "html_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+   "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+   "language": "C++",
+   "stargazers_count": 4546
+  },
+  {
+   "full_name": "gylive/google-ultra",
+   "html_url": "https://github.com/gylive/google-ultra",
+   "description": null,
    "language": "Python",
-   "stargazers_count": 1638
+   "stargazers_count": 2437
   },
   {
    "full_name": "Hut-hzf/ung220z-tool",
    "html_url": "https://github.com/Hut-hzf/ung220z-tool",
    "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
    "language": "Python",
-   "stargazers_count": 1550
+   "stargazers_count": 1717
+  },
+  {
+   "full_name": "duwqijlk/muse-protocol",
+   "html_url": "https://github.com/duwqijlk/muse-protocol",
+   "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+   "language": "Python",
+   "stargazers_count": 1653
   },
   {
    "full_name": "CzzzzzzJ/mdldm-maitian",
    "html_url": "https://github.com/CzzzzzzJ/mdldm-maitian",
    "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
    "language": "JavaScript",
-   "stargazers_count": 1507
-  },
-  {
-   "full_name": "sybil-solutions/inference-optimisation-skill",
-   "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-   "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-   "language": "Python",
-   "stargazers_count": 1178
+   "stargazers_count": 1589
   },
   {
    "full_name": "haziqahmedqasmi/PeakCut",
    "html_url": "https://github.com/haziqahmedqasmi/PeakCut",
    "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
    "language": "Python",
-   "stargazers_count": 1176
+   "stargazers_count": 1303
+  },
+  {
+   "full_name": "sybil-solutions/inference-optimisation-skill",
+   "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+   "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+   "language": "Python",
+   "stargazers_count": 1235
   },
   {
    "full_name": "joshpuckett/allo",
    "html_url": "https://github.com/joshpuckett/allo",
    "description": "Allo is your friendly neighborhood typeface, free and open source",
    "language": "Python",
-   "stargazers_count": 1091
+   "stargazers_count": 1134
   },
   {
    "full_name": "zephyr4123/snug",
    "html_url": "https://github.com/zephyr4123/snug",
    "description": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gestures and an App Library.",
    "language": "Swift",
-   "stargazers_count": 1064
+   "stargazers_count": 1090
   },
   {
    "full_name": "chuanqisun/spaceship",
    "html_url": "https://github.com/chuanqisun/spaceship",
    "description": "Steer your ideas in realtime",
    "language": "HTML",
-   "stargazers_count": 892
+   "stargazers_count": 931
   },
   {
    "full_name": "opencoredev/islandcn",
    "html_url": "https://github.com/opencoredev/islandcn",
    "description": "The open-source Dynamic Island for React, installed with shadcn.",
    "language": "TypeScript",
-   "stargazers_count": 815
+   "stargazers_count": 818
   },
   {
    "full_name": "n4ze3m/tiny-voca",
    "html_url": "https://github.com/n4ze3m/tiny-voca",
    "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
    "language": "Python",
-   "stargazers_count": 757
+   "stargazers_count": 769
   },
   {
    "full_name": "yetanotherbrowser/yab",
    "html_url": "https://github.com/yetanotherbrowser/yab",
    "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
    "language": "Swift",
-   "stargazers_count": 729
+   "stargazers_count": 734
   },
   {
    "full_name": "mit-han-lab/pear",
    "html_url": "https://github.com/mit-han-lab/pear",
    "description": "Training Reasoning Models in Simulation to Natively Use Real Robots",
    "language": "Python",
-   "stargazers_count": 711
+   "stargazers_count": 718
   },
   {
    "full_name": "boringmarketer/boring-marketing-skills",
    "html_url": "https://github.com/boringmarketer/boring-marketing-skills",
    "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
    "language": "Python",
-   "stargazers_count": 687
-  },
-  {
-   "full_name": "Illson/RustText",
-   "html_url": "https://github.com/Illson/RustText",
-   "description": null,
-   "language": "Rust",
-   "stargazers_count": 660
+   "stargazers_count": 709
   },
   {
    "full_name": "siliconjungle/shapeshift-labs-ink-studio",
    "html_url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
    "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
    "language": "JavaScript",
-   "stargazers_count": 641
+   "stargazers_count": 682
   },
   {
-   "full_name": "faizwashere/ScanDot",
-   "html_url": "https://github.com/faizwashere/ScanDot",
-   "description": "Experimental Android 3D scanning and point-cloud viewer",
-   "language": "Kotlin",
-   "stargazers_count": 545
-  },
-  {
-   "full_name": "quer3q/kraken-mount",
-   "html_url": "https://github.com/quer3q/kraken-mount",
-   "description": "Minimalist PS5 game mounter supporting PKG, folder dumps, zstd and lz4",
-   "language": "Rust",
-   "stargazers_count": 532
+   "full_name": "Bodila51/gtavi-claudecode",
+   "html_url": "https://github.com/Bodila51/gtavi-claudecode",
+   "description": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.",
+   "language": "Python",
+   "stargazers_count": 657
   },
   {
    "full_name": "ybblab/Jiumi",
    "html_url": "https://github.com/ybblab/Jiumi",
    "description": "揪咪 Jiumi：开源安卓应用行为监测与管理，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.",
    "language": "Kotlin",
-   "stargazers_count": 491
+   "stargazers_count": 544
+  },
+  {
+   "full_name": "quer3q/kraken-mount",
+   "html_url": "https://github.com/quer3q/kraken-mount",
+   "description": "Minimalist PS5 game mounter supporting PKG, folder dumps, zstd and lz4",
+   "language": "Rust",
+   "stargazers_count": 544
+  },
+  {
+   "full_name": "sourmitocand1987/VividFrame-GPU",
+   "html_url": "https://github.com/sourmitocand1987/VividFrame-GPU",
+   "description": "Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · super-resolution · game-streaming · moonlight · dolby-vision · frame-interpolation · video-player · media-player · video-super-resolution · video-processing · upscaling · rife · vulkan · nvidia · windows · video-enhancement · ncnn",
+   "language": null,
+   "stargazers_count": 519
+  },
+  {
+   "full_name": "faizwashere/ScanDot",
+   "html_url": "https://github.com/faizwashere/ScanDot",
+   "description": "Experimental Android 3D scanning and point-cloud viewer",
+   "language": "Kotlin",
+   "stargazers_count": 515
+  },
+  {
+   "full_name": "nilbuild/stick-scene",
+   "html_url": "https://github.com/nilbuild/stick-scene",
+   "description": "Skill to draw stick figure animated visuals",
+   "language": "JavaScript",
+   "stargazers_count": 490
+  },
+  {
+   "full_name": "bothaggsigym1988/frameglide",
+   "html_url": "https://github.com/bothaggsigym1988/frameglide",
+   "description": "From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · frame-generation · nvidia · windows · dlss · super-resolution · vulkan · dlss5 · upscaling · rife · neural-rendering · ps5 · rtx · remote-play · pytorch · video · chiaki · optical-flow · video-frame-interpolation · amd · tensorrt · fsr · rtx-vsr · video-upscaling",
+   "language": null,
+   "stargazers_count": 483
+  },
+  {
+   "full_name": "pixl27/ProjectReLink",
+   "html_url": "https://github.com/pixl27/ProjectReLink",
+   "description": "Project ReLink - Zelda OOT Remake Recomp. An unofficial native PC recompilation of Ocarina of Time (the Switch 2 remake), built on your PC from your own copy.",
+   "language": "C++",
+   "stargazers_count": 481
+  },
+  {
+   "full_name": "mankidev/antialgorithm",
+   "html_url": "https://github.com/mankidev/antialgorithm",
+   "description": "Claude Code skill that steers the model away from its first, most average pick in creative work: names, ideas, posters, UI.",
+   "language": "Python",
+   "stargazers_count": 477
   },
   {
    "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
@@ -165,48 +207,6 @@
   {
    "full_name": "WyrmClimberManacle/Gemini-Config-Checker-",
    "html_url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
-   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-   "language": "Makefile",
-   "stargazers_count": 472
-  },
-  {
-   "full_name": "TurtleReside/Gemini-Config-Checker-",
-   "html_url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-   "language": "Go",
-   "stargazers_count": 472
-  },
-  {
-   "full_name": "weldbladesmithwharf/Gemini-Config-Checker-",
-   "html_url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
-   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-   "language": "Makefile",
-   "stargazers_count": 472
-  },
-  {
-   "full_name": "WerewolfEmuHub/Gemini-Config-Checker-",
-   "html_url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
-   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-   "language": "Go",
-   "stargazers_count": 472
-  },
-  {
-   "full_name": "WindowStaffGate11/Gemini-Config-Checker-",
-   "html_url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
-   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-   "language": "Makefile",
-   "stargazers_count": 472
-  },
-  {
-   "full_name": "Violetnyudress/Gemini-Config-Checker-",
-   "html_url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-   "language": "Go",
-   "stargazers_count": 472
-  },
-  {
-   "full_name": "TrooperFilter/Gemini-Config-Checker-",
-   "html_url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
    "language": "Makefile",
    "stargazers_count": 472
