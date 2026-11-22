@@ -1,7 +1,182 @@
 {
- "updated": "2026-11-21T23:10:37.875Z",
+ "updated": "2026-11-22T06:41:23.838Z",
  "sources": 22,
  "items": [
+  {
+   "title": "FSD v15 is rolling out, and Tesla says it handles risky moments 25 times better",
+   "link": "https://www.digitaltrends.com/cars/tesla-fsd-v15-rollout/",
+   "source": "Digital Trends",
+   "cat": "Gadgets",
+   "date": "2026-11-22T06:34:41.000Z"
+  },
+  {
+   "title": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
+   "link": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "cat": "Developers",
+   "date": "2026-11-22T06:30:00.000Z"
+  },
+  {
+   "title": "AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU",
+   "link": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "cat": "Developers",
+   "date": "2026-11-22T06:27:00.000Z"
+  },
+  {
+   "title": "Google is adding Target and grocery stores to Search and Gemini, just in time for the holidays",
+   "link": "https://www.digitaltrends.com/computing/google-connected-apps-groceries/",
+   "source": "Digital Trends",
+   "cat": "Gadgets",
+   "date": "2026-11-22T05:45:32.000Z"
+  },
+  {
+   "title": "GTA 6: 32.5 Million copies, Cameos, and Easter Eggs - but No Physical Discs",
+   "link": "https://games.slashdot.org/story/26/11/22/0336243/gta-6-325-million-copies-cameos-and-easter-eggs---but-no-physical-discs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+   "source": "Slashdot",
+   "cat": "Developers",
+   "date": "2026-11-22T05:34:00.000Z"
+  },
+  {
+   "title": "How to watch New Wave online — stream music documentary from anywhere",
+   "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-new-wave-online-stream-music-documentary-from-anywhere",
+   "source": "TechRadar",
+   "cat": "Gadgets",
+   "date": "2026-11-22T03:00:00.000Z"
+  },
+  {
+   "title": "Several Waymo Self-Driving Cars Stalled in Traffic as San Francisco's Streets Flooded",
+   "link": "https://tech.slashdot.org/story/26/11/22/0016228/several-waymo-self-driving-cars-stalled-in-traffic-as-san-franciscos-streets-flooded?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+   "source": "Slashdot",
+   "cat": "Developers",
+   "date": "2026-11-22T02:34:00.000Z"
+  },
+  {
+   "title": "'I leaked secrets': An AI agent confessed to its own data leak — but others got around corporate protections",
+   "link": "https://www.techradar.com/pro/security/i-leaked-secrets-an-ai-agent-confessed-to-its-own-data-leak-but-others-got-around-corporate-protections",
+   "source": "TechRadar",
+   "cat": "Gadgets",
+   "date": "2026-11-22T02:10:00.000Z"
+  },
+  {
+   "title": "4 wild things people are powering with spare Ryobi batteries, from kayaks to go-karts",
+   "link": "https://www.howtogeek.com/wild-things-people-powering-with-spare-ryobi-batteries-kayaks-to-go-karts/",
+   "source": "How-To Geek",
+   "cat": "How-To",
+   "date": "2026-11-22T01:00:15.000Z"
+  },
+  {
+   "title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
+   "link": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
+   "source": "Engadget",
+   "cat": "Gadgets",
+   "date": "2026-11-22T01:00:00.000Z"
+  },
+  {
+   "title": "Samsung vs. LG OLED TVs: What's the difference between them?",
+   "link": "https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/",
+   "source": "Engadget",
+   "cat": "Gadgets",
+   "date": "2026-11-22T01:00:00.000Z"
+  },
+  {
+   "title": "This is what can happen if too many devices are sharing your home network",
+   "link": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/",
+   "source": "Engadget",
+   "cat": "Gadgets",
+   "date": "2026-11-22T00:45:00.000Z"
+  },
+  {
+   "title": "Your PC's USB port can charge your phone, even when it's turned off — Here's how",
+   "link": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off/",
+   "source": "Engadget",
+   "cat": "Gadgets",
+   "date": "2026-11-22T00:30:00.000Z"
+  },
+  {
+   "title": "Nvidia finally reveals new Rubin GPU with almost 3X more CUDA cores than the Nvidia RTX 5090 — but you will have to wait till 2028 to grab it",
+   "link": "https://www.techradar.com/pro/nvidia-finally-reveals-new-rubin-gpu-with-almost-3x-more-cuda-cores-than-the-nvidia-rtx-5090-but-you-will-have-to-wait-till-2028-to-grab-it",
+   "source": "TechRadar",
+   "cat": "Gadgets",
+   "date": "2026-11-22T00:25:00.000Z"
+  },
+  {
+   "title": "10 things you should never do on your Android phone",
+   "link": "https://www.engadget.com/2317775/never-do-these-things-on-android-phone/",
+   "source": "Engadget",
+   "cat": "Gadgets",
+   "date": "2026-11-22T00:15:00.000Z"
+  },
+  {
+   "title": "Set up these 4 Android emergency settings before your life depends on it",
+   "link": "https://www.howtogeek.com/set-up-these-android-emergency-settings-before-life-depends-on-it/",
+   "source": "How-To Geek",
+   "cat": "How-To",
+   "date": "2026-11-22T00:00:15.000Z"
+  },
+  {
+   "title": "This is the best type of wireless earbuds for audio output",
+   "link": "https://www.engadget.com/2319289/wireless-earbuds-type-best-for-audio-output/",
+   "source": "Engadget",
+   "cat": "Gadgets",
+   "date": "2026-11-22T00:00:00.000Z"
+  },
+  {
+   "title": "Quordle hints and answers for Sunday, November 22 (game #1763)",
+   "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-22-november-2026",
+   "source": "TechRadar",
+   "cat": "Gadgets",
+   "date": "2026-11-22T00:00:00.000Z"
+  },
+  {
+   "title": "NYT Strands hints and answers for Sunday, November 22 (game #994)",
+   "link": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-22-november-2026",
+   "source": "TechRadar",
+   "cat": "Gadgets",
+   "date": "2026-11-22T00:00:00.000Z"
+  },
+  {
+   "title": "NYT Connections hints and answers for Sunday, November 22 (game #1260)",
+   "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-22-november-2026",
+   "source": "TechRadar",
+   "cat": "Gadgets",
+   "date": "2026-11-22T00:00:00.000Z"
+  },
+  {
+   "title": "How to calibrate your 3D printer (and why you should)",
+   "link": "https://www.engadget.com/2310980/how-to-calibrate-3d-printer-why-should/",
+   "source": "Engadget",
+   "cat": "Gadgets",
+   "date": "2026-11-21T23:45:00.000Z"
+  },
+  {
+   "title": "Smuggling AI into a national exam room: A South Korean candidate used a pinhole camera and concealed earpiece to score 159/160 before turning himself in",
+   "link": "https://www.techradar.com/pro/smuggling-ai-into-a-national-exam-room-a-south-korean-candidate-used-a-pinhole-camera-and-concealed-earpiece-to-score-159-160-before-turning-himself-in",
+   "source": "TechRadar",
+   "cat": "Gadgets",
+   "date": "2026-11-21T23:35:00.000Z"
+  },
+  {
+   "title": "I wired an old Apple TV to a router and my smart home stopped going offline",
+   "link": "https://www.howtogeek.com/wired-an-old-apple-tv-to-a-router-and-my-smart-home-stopped-going-offline/",
+   "source": "How-To Geek",
+   "cat": "How-To",
+   "date": "2026-11-21T23:30:15.000Z"
+  },
+  {
+   "title": "Building your own mini PC is harder than you would think",
+   "link": "https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected/",
+   "source": "Engadget",
+   "cat": "Gadgets",
+   "date": "2026-11-21T23:30:00.000Z"
+  },
+  {
+   "title": "Pick up the Orico 7-in-1 Power Strip at a new all-time low of $11.30",
+   "link": "https://www.howtogeek.com/oricos-7-in-1-power-strip-is-a-new-all-time-low-at-1130/",
+   "source": "How-To Geek",
+   "cat": "How-To",
+   "date": "2026-11-21T23:13:37.000Z"
+  },
   {
    "title": "Streaming services kept taking my shows away, so I built my own Netflix",
    "link": "https://www.howtogeek.com/streaming-services-kept-taking-my-shows-away-so-i-built-my-own-netflix/",
@@ -17,8 +192,8 @@
    "date": "2026-11-21T23:00:00.000Z"
   },
   {
-   "title": "US DOJ Charges Suspected Russian Agent for Stalking Palintir Employees in California",
-   "link": "https://news.slashdot.org/story/26/11/21/212248/us-doj-charges-suspected-russian-agent-for-stalking-palintir-employees-in-california?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+   "title": "US DOJ Charges Suspected Russian Agent for Stalking Palantir Employees in California",
+   "link": "https://news.slashdot.org/story/26/11/21/212248/us-doj-charges-suspected-russian-agent-for-stalking-palantir-employees-in-california?utm_source=rss1.0mainlinkanon&utm_medium=feed",
    "source": "Slashdot",
    "cat": "Developers",
    "date": "2026-11-21T23:00:00.000Z"
@@ -73,13 +248,6 @@
    "date": "2026-11-21T22:12:41.000Z"
   },
   {
-   "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-   "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T22:09:58.000Z"
-  },
-  {
    "title": "I ran Portainer, Pi-hole, Home Assistant, and Nextcloud for a month, and they did most of the work",
    "link": "https://www.howtogeek.com/ran-portainer-pi-hole-home-assistant-nextcloud-for-month-did-most-work/",
    "source": "How-To Geek",
@@ -108,20 +276,6 @@
    "date": "2026-11-21T21:59:31.000Z"
   },
   {
-   "title": "FBI and USDA were reportedly targeted in back-to-back cyberattacks",
-   "link": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
-   "source": "Engadget",
-   "cat": "Gadgets",
-   "date": "2026-11-21T21:51:29.000Z"
-  },
-  {
-   "title": "The free Raspberry Pi tool you should be using to access it remotely",
-   "link": "https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely/",
-   "source": "Engadget",
-   "cat": "Gadgets",
-   "date": "2026-11-21T21:45:00.000Z"
-  },
-  {
    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
    "source": "TechCrunch",
@@ -136,13 +290,6 @@
    "date": "2026-11-21T21:30:15.000Z"
   },
   {
-   "title": "How long can fiber optic cables be before they lose signal?",
-   "link": "https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal/",
-   "source": "Engadget",
-   "cat": "Gadgets",
-   "date": "2026-11-21T21:30:00.000Z"
-  },
-  {
    "title": "Your phone habits could be reflected in your brain, new study suggests",
    "link": "https://www.digitaltrends.com/cool-tech/screen-time-teenage-brain-structure-study/",
    "source": "Digital Trends",
@@ -150,39 +297,11 @@
    "date": "2026-11-21T21:24:14.000Z"
   },
   {
-   "title": "Advice for the next 100 Rust GUIs",
-   "link": "https://linebender.org/blog/next-100-guis/",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T21:17:53.000Z"
-  },
-  {
-   "title": "How to easily factory reset your Fitbit",
-   "link": "https://www.engadget.com/2319074/how-to-factory-reset-fitbit-device/",
-   "source": "Engadget",
-   "cat": "Gadgets",
-   "date": "2026-11-21T21:15:00.000Z"
-  },
-  {
-   "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-   "link": "https://tasklet.ai/careers",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T21:11:08.000Z"
-  },
-  {
    "title": "A tale of two Nvidias",
    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
    "source": "TechCrunch",
    "cat": "Startups",
    "date": "2026-11-21T21:07:42.000Z"
-  },
-  {
-   "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-   "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T21:06:14.000Z"
   },
   {
    "title": "CMF's open-ear Clip Pro earbuds are the cheapest they've ever been at $59",
@@ -206,13 +325,6 @@
    "date": "2026-11-21T21:00:15.000Z"
   },
   {
-   "title": "What's new with Apple's latest Siri Remote, and does your old Apple TV support it?",
-   "link": "https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support/",
-   "source": "Engadget",
-   "cat": "Gadgets",
-   "date": "2026-11-21T21:00:00.000Z"
-  },
-  {
    "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
    "link": "https://tech.slashdot.org/story/26/11/21/0627227/toyota-nissan-and-honda-to-standardize-parts-to-lower-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
    "source": "Slashdot",
@@ -227,13 +339,6 @@
    "date": "2026-11-21T20:52:52.000Z"
   },
   {
-   "title": "The trade-offs of using Apple's AirPods Max headphones",
-   "link": "https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones/",
-   "source": "Engadget",
-   "cat": "Gadgets",
-   "date": "2026-11-21T20:45:00.000Z"
-  },
-  {
    "title": "Forget searching for GIFs, Gemini can now make its own",
    "link": "https://www.digitaltrends.com/cool-tech/google-gemini-ai-gif-generation/",
    "source": "Digital Trends",
@@ -241,32 +346,11 @@
    "date": "2026-11-21T20:35:18.000Z"
   },
   {
-   "title": "I tested motion sensors and presence sensors in the same room—here’s where each one won",
-   "link": "https://www.howtogeek.com/tested-motion-sensors-and-presence-sensors-in-the-same-room/",
-   "source": "How-To Geek",
-   "cat": "How-To",
-   "date": "2026-11-21T20:30:15.000Z"
-  },
-  {
-   "title": "Discs vs. disks: What's the difference?",
-   "link": "https://www.engadget.com/2319034/discs-vs-disks-differences/",
-   "source": "Engadget",
-   "cat": "Gadgets",
-   "date": "2026-11-21T20:30:00.000Z"
-  },
-  {
    "title": "Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame",
    "link": "https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/",
    "source": "9to5Mac",
    "cat": "Apple",
    "date": "2026-11-21T20:30:00.000Z"
-  },
-  {
-   "title": "Why Apple Vision Pro never took off like Meta's VR headsets",
-   "link": "https://www.engadget.com/2318875/why-apple-vision-pro-did-not-take-off-vs-meta-vr/",
-   "source": "Engadget",
-   "cat": "Gadgets",
-   "date": "2026-11-21T20:15:00.000Z"
   },
   {
    "title": "Nearly all software teams admit to shipping AI-generated code as study finds verification 'has not kept pace with that shift'",
@@ -288,13 +372,6 @@
    "source": "Tom's Hardware",
    "cat": "Hardware",
    "date": "2026-11-21T20:00:22.000Z"
-  },
-  {
-   "title": "4 Samsung Galaxy features I love to show off",
-   "link": "https://www.howtogeek.com/samsung-galaxy-features-i-love-to-show-off/",
-   "source": "How-To Geek",
-   "cat": "How-To",
-   "date": "2026-11-21T20:00:15.000Z"
   },
   {
    "title": "After all this time, the first Baldur’s Gate is still a whimsical masterpiece, and BioWare’s gift to the world",
@@ -325,25 +402,11 @@
    "date": "2026-11-21T19:35:44.000Z"
   },
   {
-   "title": "Your new 4TB USB drive might only have 64GB of storage inside, and your files could vanish",
-   "link": "https://www.howtogeek.com/your-new-4tb-usb-drive-might-only-have-64gb-of-storage-inside/",
-   "source": "How-To Geek",
-   "cat": "How-To",
-   "date": "2026-11-21T19:30:15.000Z"
-  },
-  {
    "title": "Days after Nvidia CEO Jensen Huang resigned, journalists unearth covert influence operation using right-wing outlets to promote Nvidia AI chip export to...China",
    "link": "https://www.techradar.com/pro/days-after-nvidia-ceo-resigned-journalists-unearth-covert-influence-operation-using-right-wing-outlets-to-promote-nvidia-ai-chip-export-to-china",
    "source": "TechRadar",
    "cat": "Gadgets",
    "date": "2026-11-21T19:15:00.000Z"
-  },
-  {
-   "title": "4 Netflix family movies from the '80s and '90s that still hold up well",
-   "link": "https://www.howtogeek.com/netflix-family-movies-that-hold-up-well/",
-   "source": "How-To Geek",
-   "cat": "How-To",
-   "date": "2026-11-21T19:00:15.000Z"
   },
   {
    "title": "Will AI-Fueled Cyberattacks Lead to Better Funding for Critical Open Source Projects?",
@@ -381,13 +444,6 @@
    "date": "2026-11-21T18:35:34.000Z"
   },
   {
-   "title": "Upload2Shell (CVE-2026-125396)",
-   "link": "https://pwn.ai/upload2shell",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T18:29:29.000Z"
-  },
-  {
    "title": "Ninja’s fancy kitchen appliances are on sale this Black Friday, and these 5 are my top picks",
    "link": "https://www.digitaltrends.com/home/ninjas-kitchen-appliances-black-friday-deals-2026/",
    "source": "Digital Trends",
@@ -416,25 +472,11 @@
    "date": "2026-11-21T18:05:00.000Z"
   },
   {
-   "title": "Inkling-2-Mini in 5.4 GB Memory",
-   "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T18:02:19.000Z"
-  },
-  {
    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
    "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
    "source": "BleepingComputer",
    "cat": "Security",
    "date": "2026-11-21T18:01:58.000Z"
-  },
-  {
-   "title": "Motorola Signature 27: a genuine phone of the year contender",
-   "link": "https://www.techradar.com/phones/motorola-phones/motorola-signature-27-review",
-   "source": "TechRadar",
-   "cat": "Gadgets",
-   "date": "2026-11-21T18:00:00.000Z"
   },
   {
    "title": "Nvidia's Accounting Practices Now Being Investigated by America's SEC",
@@ -465,13 +507,6 @@
    "date": "2026-11-21T17:49:20.000Z"
   },
   {
-   "title": "How to watch France vs Argentina: FREE live streams, TV channels and kick-off time for Nations Championship 2026 game",
-   "link": "https://www.techradar.com/entertainment/rugby/watch-france-vs-argentina-nations-championship-2026-free",
-   "source": "TechRadar",
-   "cat": "Gadgets",
-   "date": "2026-11-21T17:40:00.000Z"
-  },
-  {
    "title": "SK Hynix will become Kioxia’s largest shareholder through a bond swap",
    "link": "https://thenextweb.com/news/sk-hynix-kioxia-largest-shareholder-bond-conversion-14-1",
    "source": "The Next Web",
@@ -493,20 +528,6 @@
    "date": "2026-11-21T17:15:41.000Z"
   },
   {
-   "title": "How to watch Wales vs Australia: FREE live streams, TV channels and kick-off time for Nations Championship 2026 game",
-   "link": "https://www.techradar.com/entertainment/rugby/watch-wales-vs-australia-nations-championship-2026-free",
-   "source": "TechRadar",
-   "cat": "Gadgets",
-   "date": "2026-11-21T17:10:00.000Z"
-  },
-  {
-   "title": "PostgreSQL Extensions in Go",
-   "link": "https://jespino.github.io/gopgext/",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T17:08:04.000Z"
-  },
-  {
    "title": "Databricks in early talks to raise at a $225bn valuation, WSJ reports",
    "link": "https://thenextweb.com/news/databricks-valuation-225bn-funding-talks-ghodsi-ipo",
    "source": "The Next Web",
@@ -518,13 +539,6 @@
    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
    "source": "TechCrunch",
    "cat": "Startups",
-   "date": "2026-11-21T17:00:00.000Z"
-  },
-  {
-   "title": "I've covered Black Friday for years — here are the 40+ early deals worth your cash today, including TVs, laptops, headphones, appliances, and more",
-   "link": "https://www.techradar.com/seasonal-sales/ive-covered-black-friday-for-years-here-are-the-40-early-deals-worth-your-cash-today-including-tvs-laptops-headphones-appliances-and-more",
-   "source": "TechRadar",
-   "cat": "Gadgets",
    "date": "2026-11-21T17:00:00.000Z"
   },
   {
@@ -584,31 +598,10 @@
    "date": "2026-11-21T16:29:39.000Z"
   },
   {
-   "title": "The MSI Claw 8 EX AI+ is hands down the best handheld console I’ve ever tested — and while there’s usually a premium to pay for its staggering performance, this new price makes it much easier to recommend",
-   "link": "https://www.techradar.com/gaming/consoles-pc/the-msi-claw-8-ex-ai-is-hands-down-the-best-handheld-console-ive-ever-tested-and-while-theres-usually-a-premium-to-pay-for-its-staggering-performance-this-new-price-makes-it-much-easier-to-recommend",
-   "source": "TechRadar",
-   "cat": "Gadgets",
-   "date": "2026-11-21T16:15:37.000Z"
-  },
-  {
    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
    "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
    "source": "TechCrunch",
    "cat": "Startups",
-   "date": "2026-11-21T16:00:00.000Z"
-  },
-  {
-   "title": "Anker Soundcore Space 2 Pro review: a messy headphone sequel, but not without merit",
-   "link": "https://www.techradar.com/audio/wireless-headphones/anker-soundcore-space-2-pro-review",
-   "source": "TechRadar",
-   "cat": "Gadgets",
-   "date": "2026-11-21T16:00:00.000Z"
-  },
-  {
-   "title": "‘Everything from industrial to scruffy to decadent to dangerous. We get to design all of that’ — GTA 6 devs share the process of crafting every individual NPC and the world they inhabit",
-   "link": "https://www.techradar.com/gaming/everything-from-industrial-to-scruffy-to-decadent-to-dangerous-we-get-to-design-all-of-that-gta-6-devs-share-the-process-of-crafting-every-individual-npc-and-the-world-they-inhabit",
-   "source": "TechRadar",
-   "cat": "Gadgets",
    "date": "2026-11-21T16:00:00.000Z"
   },
   {
@@ -624,20 +617,6 @@
    "source": "Slashdot",
    "cat": "Developers",
    "date": "2026-11-21T16:00:00.000Z"
-  },
-  {
-   "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-   "link": "https://math.mit.edu/~drew/grh/",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T15:54:34.000Z"
-  },
-  {
-   "title": "Show HN: Zero C# – C# without a runtime or GC",
-   "link": "https://onurgumus.github.io/zero-csharp/index.html",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T15:39:09.000Z"
   },
   {
    "title": "Modder cools gaming laptop with a bounce house blower for a 35-degree drop",
@@ -694,13 +673,6 @@
    "source": "The Verge",
    "cat": "Gadgets",
    "date": "2026-11-21T14:55:28.000Z"
-  },
-  {
-   "title": "Lean verification of the Riemann Hypothesis",
-   "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T14:36:45.000Z"
   },
   {
    "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
@@ -771,13 +743,6 @@
    "source": "The Verge",
    "cat": "Gadgets",
    "date": "2026-11-21T13:29:45.000Z"
-  },
-  {
-   "title": "Detonating a pile of lead azide",
-   "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T13:23:14.000Z"
   },
   {
    "title": "MSI Crosshair A16 HX RTX 5070, Ryzen 9-equipped gaming laptop gets $400 discount at Amazon",
@@ -878,13 +843,6 @@
    "date": "2026-11-21T11:00:00.000Z"
   },
   {
-   "title": "My monitor was cutting my download speed by 75%",
-   "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-   "source": "Hacker News",
-   "cat": "Developers",
-   "date": "2026-11-21T10:36:32.000Z"
-  },
-  {
    "title": "17 Best Gifts for Women in the Enshittocene (2026)",
    "link": "https://www.wired.com/story/best-gifts-for-women/",
    "source": "Wired",
@@ -934,27 +892,6 @@
    "date": "2026-11-21T07:47:00.000Z"
   },
   {
-   "title": "LinkedIn now lets you make your own snazzy business card. Here’s how to make one",
-   "link": "https://www.digitaltrends.com/social-media/linkedin-now-lets-you-make-your-own-snazzy-business-card-heres-how-to-make-one/",
-   "source": "Digital Trends",
-   "cat": "Gadgets",
-   "date": "2026-11-21T07:28:44.000Z"
-  },
-  {
-   "title": "Anthropic Mathematician Claims to Prove Riemann Hypothesis",
-   "link": "https://science.slashdot.org/story/26/11/21/028221/anthropic-mathematician-claims-to-prove-riemann-hypothesis?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-   "source": "Slashdot",
-   "cat": "Developers",
-   "date": "2026-11-21T07:00:00.000Z"
-  },
-  {
-   "title": "AI-powered cyberattacks are here, and the EU just admitted to being a target for weeks",
-   "link": "https://www.digitaltrends.com/computing/eu-ai-cyberattack-october/",
-   "source": "Digital Trends",
-   "cat": "Gadgets",
-   "date": "2026-11-21T06:19:47.000Z"
-  },
-  {
    "title": "Mint Mobile Discounts for November 2026",
    "link": "https://www.wired.com/story/mint-mobile-promo-code/",
    "source": "Wired",
@@ -976,8 +913,8 @@
    "date": "2026-11-21T06:00:00.000Z"
   },
   {
-   "title": "Motorola Coupon Code for November 2026",
-   "link": "https://www.wired.com/story/motorola-coupon-code/",
+   "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+   "link": "https://www.wired.com/story/nike-promo-code/",
    "source": "Wired",
    "cat": "Culture & Tech",
    "date": "2026-11-21T06:00:00.000Z"
@@ -988,13 +925,6 @@
    "source": "TechCrunch",
    "cat": "Startups",
    "date": "2026-11-21T04:00:00.000Z"
-  },
-  {
-   "title": "FCC Backs AT&amp;T's Plan To Remove Copper Landlines In California",
-   "link": "https://slashdot.org/story/26/11/20/2357248/fcc-backs-atts-plan-to-remove-copper-landlines-in-california?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-   "source": "Slashdot",
-   "cat": "Developers",
-   "date": "2026-11-21T03:30:00.000Z"
   },
   {
    "title": "The game of the year is finally here",
@@ -1501,13 +1431,6 @@
    "date": "2026-11-19T17:12:31.000Z"
   },
   {
-   "title": "Presentation: AI-Assisted Software Delivery: From Code to Production",
-   "link": "https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "cat": "Developers",
-   "date": "2026-11-19T14:30:00.000Z"
-  },
-  {
    "title": "The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter",
    "link": "https://www.zdnet.com/tech/flipper-one-cost-features-linux-computer-kickstarter/",
    "source": "ZDNET",
@@ -1520,13 +1443,6 @@
    "source": "MIT Technology Review",
    "cat": "AI",
    "date": "2026-11-19T13:10:00.000Z"
-  },
-  {
-   "title": "QCon San Francisco 2026: Use AI to Multiply Your Team as a Staff Engineer",
-   "link": "https://www.infoq.com/news/2026/11/ai-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "cat": "Developers",
-   "date": "2026-11-19T13:00:00.000Z"
   },
   {
    "title": "90% of employers reject resumes that look like AI – yet half use AI to interview",
