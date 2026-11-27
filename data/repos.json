@@ -1,215 +1,215 @@
 {
- "updated": "2026-11-27T08:20:53.152Z",
+ "updated": "2026-11-27T19:27:16.065Z",
  "items": [
   {
    "full_name": "Marvisak/VIctory",
    "html_url": "https://github.com/Marvisak/VIctory",
    "description": "An attempt at running GTA VI on PC",
    "language": "Rust",
-   "stargazers_count": 13532
+   "stargazers_count": 13733
   },
   {
    "full_name": "4lwayz/portwatch-vi",
    "html_url": "https://github.com/4lwayz/portwatch-vi",
    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
    "language": "JavaScript",
-   "stargazers_count": 6118
+   "stargazers_count": 6563
   },
   {
    "full_name": "EL4CTEO/fast-anything",
    "html_url": "https://github.com/EL4CTEO/fast-anything",
-   "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+   "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
    "language": "Rust",
-   "stargazers_count": 4331
-  },
-  {
-   "full_name": "Belobug/VIctory-Belobug-AMD",
-   "html_url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-   "description": null,
-   "language": "Rust",
-   "stargazers_count": 3568
+   "stargazers_count": 4427
   },
   {
    "full_name": "fxceless/victory-fork",
    "html_url": "https://github.com/fxceless/victory-fork",
    "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
    "language": "Rust",
-   "stargazers_count": 3305
+   "stargazers_count": 3344
   },
   {
    "full_name": "ubiquitarianism/leonida",
    "html_url": "https://github.com/ubiquitarianism/leonida",
    "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
    "language": "Python",
-   "stargazers_count": 2564
-  },
-  {
-   "full_name": "os6/nospeaker",
-   "html_url": "https://github.com/os6/nospeaker",
-   "description": "make your macbook's trackpad talk using its haptic motor",
-   "language": "Swift",
-   "stargazers_count": 1967
-  },
-  {
-   "full_name": "avatarmanz/VIctory-7900XTX",
-   "html_url": "https://github.com/avatarmanz/VIctory-7900XTX",
-   "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
-   "language": "Rust",
-   "stargazers_count": 1883
-  },
-  {
-   "full_name": "omonkeyz/xbox-emulator",
-   "html_url": "https://github.com/omonkeyz/xbox-emulator",
-   "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-   "language": "Rust",
-   "stargazers_count": 1853
-  },
-  {
-   "full_name": "alesha-pro/llm.asm",
-   "html_url": "https://github.com/alesha-pro/llm.asm",
-   "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-   "language": "Assembly",
-   "stargazers_count": 1759
-  },
-  {
-   "full_name": "crhywun/g1-acq",
-   "html_url": "https://github.com/crhywun/g1-acq",
-   "description": null,
-   "language": "JavaScript",
-   "stargazers_count": 1708
-  },
-  {
-   "full_name": "qianyiai/KuroCat",
-   "html_url": "https://github.com/qianyiai/KuroCat",
-   "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
-   "language": "TypeScript",
-   "stargazers_count": 1601
-  },
-  {
-   "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
-   "html_url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-   "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
-   "language": "Rust",
-   "stargazers_count": 1564
+   "stargazers_count": 2616
   },
   {
    "full_name": "nexu-io/opengame",
    "html_url": "https://github.com/nexu-io/opengame",
    "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
    "language": "TypeScript",
-   "stargazers_count": 1546
+   "stargazers_count": 2104
   },
   {
-   "full_name": "Indigo-0167/universal-game-mod-manager",
-   "html_url": "https://github.com/Indigo-0167/universal-game-mod-manager",
-   "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+   "full_name": "alesha-pro/llm.asm",
+   "html_url": "https://github.com/alesha-pro/llm.asm",
+   "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+   "language": "Assembly",
+   "stargazers_count": 2031
+  },
+  {
+   "full_name": "os6/nospeaker",
+   "html_url": "https://github.com/os6/nospeaker",
+   "description": "make your macbook's trackpad talk using its haptic motor",
+   "language": "Swift",
+   "stargazers_count": 1986
+  },
+  {
+   "full_name": "trustno1-coder/VIctory-NVIDIA",
+   "html_url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+   "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
    "language": "Rust",
-   "stargazers_count": 1301
+   "stargazers_count": 1908
   },
   {
-   "full_name": "Umbra9179/clipboard-history-manager-windows",
-   "html_url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
-   "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
-   "language": "C#",
-   "stargazers_count": 1265
-  },
-  {
-   "full_name": "deterministic-machines/deslop-please",
-   "html_url": "https://github.com/deterministic-machines/deslop-please",
-   "description": "Bring (back) sanity to your code",
+   "full_name": "omonkeyz/xbox-emulator",
+   "html_url": "https://github.com/omonkeyz/xbox-emulator",
+   "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
    "language": "Rust",
-   "stargazers_count": 1168
+   "stargazers_count": 1851
+  },
+  {
+   "full_name": "crhywun/g1-acq",
+   "html_url": "https://github.com/crhywun/g1-acq",
+   "description": null,
+   "language": "JavaScript",
+   "stargazers_count": 1777
+  },
+  {
+   "full_name": "qianyiai/KuroCat",
+   "html_url": "https://github.com/qianyiai/KuroCat",
+   "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+   "language": "TypeScript",
+   "stargazers_count": 1754
+  },
+  {
+   "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+   "html_url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+   "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+   "language": "Rust",
+   "stargazers_count": 1633
   },
   {
    "full_name": "Reukix/Reloc",
    "html_url": "https://github.com/Reukix/Reloc",
    "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
    "language": "Swift",
-   "stargazers_count": 1094
+   "stargazers_count": 1482
   },
   {
-   "full_name": "zero5122/offline-file-converter-windows",
-   "html_url": "https://github.com/zero5122/offline-file-converter-windows",
-   "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
-   "language": "Python",
-   "stargazers_count": 1073
-  },
-  {
-   "full_name": "solv4626/steam-achievement-manager-windows",
-   "html_url": "https://github.com/solv4626/steam-achievement-manager-windows",
-   "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
-   "language": "Rust",
-   "stargazers_count": 1058
-  },
-  {
-   "full_name": "kai415-debug/ffmpeg-video-audio-converter",
-   "html_url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
-   "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+   "full_name": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+   "html_url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
+   "description": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
    "language": "C++",
-   "stargazers_count": 1020
+   "stargazers_count": 1377
   },
   {
-   "full_name": "sybil-solutions/skill-distill",
-   "html_url": "https://github.com/sybil-solutions/skill-distill",
-   "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
-   "language": "Python",
-   "stargazers_count": 949
-  },
-  {
-   "full_name": "lsernau/grh-lean",
-   "html_url": "https://github.com/lsernau/grh-lean",
-   "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
-   "language": "Lean",
-   "stargazers_count": 948
-  },
-  {
-   "full_name": "xikhar/papercraft",
-   "html_url": "https://github.com/xikhar/papercraft",
-   "description": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
-   "language": "JavaScript",
-   "stargazers_count": 865
-  },
-  {
-   "full_name": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
-   "html_url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
-   "description": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
-   "language": "HTML",
-   "stargazers_count": 808
-  },
-  {
-   "full_name": "erkamyaman/safe-anything",
-   "html_url": "https://github.com/erkamyaman/safe-anything",
-   "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+   "full_name": "Indigo-0167/universal-game-mod-manager",
+   "html_url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+   "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
    "language": "Rust",
-   "stargazers_count": 802
+   "stargazers_count": 1348
+  },
+  {
+   "full_name": "deterministic-machines/deslop-please",
+   "html_url": "https://github.com/deterministic-machines/deslop-please",
+   "description": "Bring (back) sanity to your code",
+   "language": "Rust",
+   "stargazers_count": 1278
+  },
+  {
+   "full_name": "Umbra9179/clipboard-history-manager-windows",
+   "html_url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+   "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+   "language": "C#",
+   "stargazers_count": 1270
   },
   {
    "full_name": "ZigZagBoi1/ScarlettPort",
    "html_url": "https://github.com/ZigZagBoi1/ScarlettPort",
    "description": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
    "language": "Rust",
-   "stargazers_count": 779
+   "stargazers_count": 1192
+  },
+  {
+   "full_name": "solv4626/steam-achievement-manager-windows",
+   "html_url": "https://github.com/solv4626/steam-achievement-manager-windows",
+   "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+   "language": "Rust",
+   "stargazers_count": 1119
+  },
+  {
+   "full_name": "kai415-debug/ffmpeg-video-audio-converter",
+   "html_url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+   "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+   "language": "C++",
+   "stargazers_count": 1091
+  },
+  {
+   "full_name": "lsernau/grh-lean",
+   "html_url": "https://github.com/lsernau/grh-lean",
+   "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+   "language": "Lean",
+   "stargazers_count": 1024
+  },
+  {
+   "full_name": "sybil-solutions/skill-distill",
+   "html_url": "https://github.com/sybil-solutions/skill-distill",
+   "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+   "language": "Python",
+   "stargazers_count": 990
+  },
+  {
+   "full_name": "xikhar/papercraft",
+   "html_url": "https://github.com/xikhar/papercraft",
+   "description": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
+   "language": "JavaScript",
+   "stargazers_count": 928
   },
   {
    "full_name": "zortos293/XSEmu",
    "html_url": "https://github.com/zortos293/XSEmu",
    "description": "Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL.",
    "language": "Rust",
-   "stargazers_count": 766
+   "stargazers_count": 886
   },
   {
    "full_name": "DoubleGhosty/cool_fox",
    "html_url": "https://github.com/DoubleGhosty/cool_fox",
    "description": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV",
    "language": "Rust",
-   "stargazers_count": 756
+   "stargazers_count": 846
   },
   {
-   "full_name": "chanke17/KuroCat",
-   "html_url": "https://github.com/chanke17/KuroCat",
-   "description": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
-   "language": "C++",
-   "stargazers_count": 724
+   "full_name": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+   "html_url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+   "description": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
+   "language": "HTML",
+   "stargazers_count": 831
+  },
+  {
+   "full_name": "erkamyaman/safe-anything",
+   "html_url": "https://github.com/erkamyaman/safe-anything",
+   "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+   "language": "Rust",
+   "stargazers_count": 822
+  },
+  {
+   "full_name": "olive527/steam-library-manager-windows",
+   "html_url": "https://github.com/olive527/steam-library-manager-windows",
+   "description": "Free Windows game library manager and backup tool for Steam, Origin and Ubisoft Connect with multi-library support.",
+   "language": "C#",
+   "stargazers_count": 816
+  },
+  {
+   "full_name": "Basil0879/steam-game-idler",
+   "html_url": "https://github.com/Basil0879/steam-game-idler",
+   "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+   "language": "TypeScript",
+   "stargazers_count": 795
   }
  ]
 }
